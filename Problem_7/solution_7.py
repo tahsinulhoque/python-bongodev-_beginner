@@ -7,4 +7,5 @@ def find_missing_number(logs):
 # Test
 input_logs = [1, 2, 4, 5]
 output = find_missing_number(input_logs)
-print(output)  # Output: 3
+print(output)  
+# Output: 3
